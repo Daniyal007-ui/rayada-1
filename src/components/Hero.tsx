@@ -79,7 +79,7 @@ export default function Hero() {
                     </div>
                      Total Price Display */}
                     <div className="mt-4">
-                        <p className="font-bold text-lg ">Price: 160 SAR</p>
+                        <p className="font-bold text-lg ">Price: 105 SAR</p>
                         <p className="font-bold italic text-lg  animate-flash shadow-lg">Buy more than 1 and get a huge discount </p>
                     </div>
 
